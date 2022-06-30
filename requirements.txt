@@ -1,0 +1,5 @@
+pennylane
+qiskit
+torch
+pandas
+tensorflow
